@@ -1,4 +1,4 @@
-<!-- Inspiration: https://www.reddit.com/r/github/comments/uv9inn/hey_everyone_what_do_you_guys_think_of_my_minimal/ -->
+<!-- Format: https://github.com/Louise-h-aa/Louise-h-aa/blob/main/README.md -->
 
 
 <p align="center">
@@ -10,5 +10,9 @@
    projects.
    <br>
    </samp><br>
+   
+   <p align="center"><samp> ~
+   <a href="https://samuelolagunju.github.io">my website</a>
+   ~
 </p>
-
+</p>
