@@ -13,6 +13,10 @@
    
    <p align="center"><samp> ~
    <a href="https://samuelolagunju.github.io">my website</a>
+   ·
+   <a href="https://www.reddit.com/user/dioxair">my reddit</a>
+   ·
+   <a href="https://twitter.com/diodioxair">my twitter</a>
    ~
 </p>
 </p>
