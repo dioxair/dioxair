@@ -18,5 +18,8 @@
    ·
    <a href="https://twitter.com/diodioxair">my twitter</a>
    ~
+    
+      
+   <img src="https://wakatime.com/share/@Dioxair/ee60f861-6504-4454-8017-307c9307e1d7.png">
 </p>
 </p>
