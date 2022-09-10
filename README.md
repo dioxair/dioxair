@@ -5,7 +5,7 @@
    <samp><br>
    Hi, I'm Sam!
    <br>
-   I’m currently learning full stack web development!<br>
+   I’m currently learning backend web development!<br>
    In my free time, I work on random projects and <br> contribute to other open source
    projects.
    <br>
