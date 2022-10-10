@@ -12,7 +12,7 @@
    </samp><br>
    
    <p align="center"><samp> ~
-   <a href="https://samuelolagunju.github.io">my website</a>
+   <a href="https://dioxair.me">my website</a>
    ·
    <a href="https://www.reddit.com/user/dioxair">my reddit</a>
    ·
