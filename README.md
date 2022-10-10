@@ -20,6 +20,6 @@
    ~
     
       
-   <img src="https://wakatime.com/share/@Dioxair/ee60f861-6504-4454-8017-307c9307e1d7.png">
+   <img src="https://wakatime.com/share/@Dioxair/271740bb-3d85-4c36-b8e7-d6a8a7d7a4eb.svg">
 </p>
 </p>
