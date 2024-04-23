@@ -1,25 +1,23 @@
-<!-- Format: https://github.com/Louise-h-aa/Louise-h-aa/blob/main/README.md -->
-
+<!-- Format: https://github.com/Louise-h-aa/Louise-h-aa/blob/3184566a6bb7b56c096313d486d1517da80ca04b/README.md -->
 
 <p align="center">
    <samp><br>
    Hi, I'm Sam!
    <br>
-   I’m currently learning backend web development!<br>
-   In my free time, I work on random projects and <br> contribute to other open source
-   projects.
+   I like learning new technologies and programming in my free time
    <br>
    </samp><br>
    
    <p align="center"><samp> ~
-   <a href="https://dioxair.me">my website</a>
+   <a href="https://samola.net">my website</a>
    ·
    <a href="https://www.reddit.com/user/dioxair">my reddit</a>
    ·
    <a href="https://twitter.com/diodioxair">my twitter</a>
    ~
     
-      
-   <img src="https://wakatime.com/share/@Dioxair/271740bb-3d85-4c36-b8e7-d6a8a7d7a4eb.svg">
+   <p>
+   <p>
+   <img src="https://wakatime.com/share/@Dioxair/e811fe4c-5e50-4967-ae9f-d306e582f897.svg">
 </p>
 </p>
